@@ -20,9 +20,6 @@ En la carpeta Ransomware hay un archivo ejecutable, con el nombre de Ransomware.
 
 Para que el script funcione necesitan tener instalado el intérprete de Python.
 
-Aqui pueden descargar python:
-
-https://www.python.org/downloads/
 
 ![Captura de pantalla (347)](https://user-images.githubusercontent.com/75817113/125128921-53425500-e0c4-11eb-97ed-a0a7bf3129a9.png)
 
