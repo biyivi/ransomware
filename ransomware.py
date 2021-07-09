@@ -29,7 +29,7 @@ Este script es solo para fines educativos. No me hago responsable de ningun prob
 
 
 # Redes sociales:
-## Youtube:
+# Youtube:
 https://www.youtube.com/channel/UCRitJ4OwEQmpk_aEPK9INkw
 # Instagram:
 https://www.instagram.com/b.i.y.i.v.i/
