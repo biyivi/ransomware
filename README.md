@@ -17,9 +17,13 @@ https://www.python.org/downloads/
 
 # Ransomware .exe
 En la carpeta Ransomware hay un archivo ejecutable, con el nombre de Ransomware.pyc
+
 !
+
 Si el archivo se cierra es porque no ingresaste correctamente la ubicacion del archivo o ingresaste una letra en vez de un numero. 
+
 !
+
 Para que el script funcione necesitan tener instalado el intérprete de Python.
 
 
