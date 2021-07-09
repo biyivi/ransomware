@@ -1,8 +1,9 @@
 # Ransomware
 Ransomware hecho con python para Windows.
+
 Para que el script funcione necesitan tener instalado el intérprete de Python.
 
-Aqui pueden descargar python:
+## Aqui pueden descargar python:
 
 https://www.python.org/downloads/
 
