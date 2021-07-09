@@ -6,7 +6,7 @@ Ransomware hecho con python para Windows.
 
 ![word2](https://user-images.githubusercontent.com/75817113/125126349-7ed83600-e0ea-11eb-82ec-9af08a2c3d2c.jpeg)
 
-![word3](https://user-images.githubusercontent.com/75817113/125126758-15a4f280-e0eb-11eb-9c60-d5b2f88775d7.jpeg)
+![word4](https://user-images.githubusercontent.com/75817113/125126863-3ff6b000-e0eb-11eb-88db-9aa43fe0cc01.jpeg)
 
 
 # Disclaimer
