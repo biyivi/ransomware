@@ -8,6 +8,9 @@ Ransomware hecho con python para Windows.
 
 ![word4](https://user-images.githubusercontent.com/75817113/125126863-3ff6b000-e0eb-11eb-88db-9aa43fe0cc01.jpeg)
 
+![Captura de pantalla (349)](https://user-images.githubusercontent.com/75817113/125129997-dd3eed80-e0c5-11eb-92ec-261109ccc1b1.png)
+
+
 # Ransomware .exe
 En la carpeta Ransomware hay un archivo ejecutable.
 
