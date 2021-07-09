@@ -1,1 +1,2 @@
-# ransomware
+# Ransomware
+Ransomware hecho con python.
