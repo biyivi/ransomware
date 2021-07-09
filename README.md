@@ -8,6 +8,12 @@ Ransomware hecho con python para Windows.
 
 ![word4](https://user-images.githubusercontent.com/75817113/125126863-3ff6b000-e0eb-11eb-88db-9aa43fe0cc01.jpeg)
 
+# Ransomware .exe
+En la carpeta Ransomware hay un archivo ejecutable.
+Para que el script funcione necesitan tener instalado el intérprete de Python.
+Aqui pueden descargar python:
+https://www.python.org/downloads/
+![Captura de pantalla (347)](https://user-images.githubusercontent.com/75817113/125128921-53425500-e0c4-11eb-97ed-a0a7bf3129a9.png)
 
 # Disclaimer
 Este script es solo para fines educativos. No me hago responsable de ningun problema o daño causado por este script.
