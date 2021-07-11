@@ -211,6 +211,7 @@ https://www.instagram.com/b.i.y.i.v.i/
 https://www.tiktok.com/@biyivi
 # github: biyivi 
 https://github.com/biyivi
+
 Adios :)               
                 ''')
                 time.sleep(2)
@@ -278,6 +279,7 @@ https://www.instagram.com/b.i.y.i.v.i/
 https://www.tiktok.com/@biyivi
 # github: biyivi 
 https://github.com/biyivi
+
 Adios :)  
 ''')
 
