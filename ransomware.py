@@ -19,15 +19,7 @@ coded by:
 ███   ▄███ ███     ▄█    ███ ███    ███ ███▌    ▄   ███    ███ ███  ███   ███   ███   ███    ███   ███    ███ 
 ████████▀  █▀    ▄████████▀  ████████▀  █████▄▄██   ███    █▀  █▀    ▀█   ███   █▀    ██████████   ███    ███ 
                                         ▀                                                          ███    ███ 
-
-
-
 Este script es solo para fines educativos. No me hago responsable de ningun problema o daño causado por este script.
-
-
-
-
-
 # Redes sociales:
 # Youtube:
 https://www.youtube.com/channel/UCRitJ4OwEQmpk_aEPK9INkw
@@ -37,7 +29,6 @@ https://www.instagram.com/b.i.y.i.v.i/
 https://www.tiktok.com/@biyivi
 # github: biyivi 
 https://github.com/biyivi
-
                                                                                 
                            ,,.*((####(###(//***, ***                            
                       /./#################(/********** .(                       
@@ -77,9 +68,6 @@ https://github.com/biyivi
                            .(#/#########//****** **.                            
                               .(########//*****,.*                              
                                  ,.*(##(//* ./
-
-
-
 '''
 
 
@@ -167,7 +155,7 @@ def ransomware():
                     print("")
             except Exception as e:
                 print("")
-                print(Fore.RED+"--Error--\nRazon:\n",e+Style.RESET_ALL)
+                print(Fore.RED+Style.BRIGHT+"--Error--\nRazon:",e)
                 time.sleep(4)
                 error()
             except KeyboardInterrupt:
@@ -214,7 +202,6 @@ def ransomware():
                            .(#/#########//****** **.                            
                               .(########//*****,.*                              
                                  ,.*(##(//* ./
-
 # Redes sociales:
 # Youtube: biyivi
 https://www.youtube.com/channel/UCRitJ4OwEQmpk_aEPK9INkw
@@ -224,8 +211,6 @@ https://www.instagram.com/b.i.y.i.v.i/
 https://www.tiktok.com/@biyivi
 # github: biyivi 
 https://github.com/biyivi
-
-
 Adios :)               
                 ''')
                 time.sleep(2)
@@ -293,7 +278,6 @@ https://www.instagram.com/b.i.y.i.v.i/
 https://www.tiktok.com/@biyivi
 # github: biyivi 
 https://github.com/biyivi
-
 Adios :)  
 ''')
 
